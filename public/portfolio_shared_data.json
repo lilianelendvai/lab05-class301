@@ -5,12 +5,12 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/lilianelendvai",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/lilianelendvai/",
           "class": "fab fa-instagram"
         }
       ],
